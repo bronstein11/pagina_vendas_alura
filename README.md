@@ -32,7 +32,6 @@
   <p>Este projeto é uma página de vendas desenvolvida como parte do curso da <strong>Alura</strong>, utilizando <strong>HTML</strong> e <strong>CSS</strong>. O objetivo foi criar uma interface moderna, responsiva e acessível para apresentar o produto <strong>Alura+</strong> e suas funcionalidades.</p>
 
   <h2>📚 Sobre o projeto</h2>
-  <p>Durante o curso, aprendi e apliquei conceitos importantes como:</p>
   <ul>
     <li>Estruturação semântica com HTML5</li>
     <li>Estilização com CSS3</li>
@@ -66,7 +65,7 @@
 
   <h2>🧑‍💻 Autor</h2>
   <p>Feito por Mauricio Grass de Bronstein 👋<br>
-  Se quiser entrar em contato, você me encontra em [seu e-mail/linkedin/github].</p>
+  Se quiser entrar em contato, você me encontra em <em>[seu e-mail/linkedin/github]</em>.</p>
 
   <hr>
 
