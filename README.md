@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Alura+ - Página de Venda Responsiva</title>
   <style>
     body {
@@ -66,8 +66,6 @@
   <h2>🧑‍💻 Autor</h2>
   <p>Feito por Mauricio Grass de Bronstein 👋<br>
   Se quiser entrar em contato, você me encontra em <em>[seu e-mail/linkedin/github]</em>.</p>
-
-  <hr>
 
 </body>
 </html>
