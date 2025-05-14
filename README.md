@@ -35,6 +35,13 @@ O layout se adapta a diferentes tamanhos de tela utilizando `media queries`, `di
 
 Este projeto foi desenvolvido com o acompanhamento dos instrutores da **Alura**, como parte prática de um curso voltado ao desenvolvimento front-end. Sou aluno da plataforma e estou aprendendo a construir páginas web profissionais.
 
+## 🖥️ Como Executar o Projeto
+
+1. Clone o repositório ou faça o download dos arquivos
+2. Abra o arquivo `index.html` em seu navegador
+
+Ou acesse a versão online do projeto: https://pagina-vendas-alura.vercel.app
+
 ## 👩‍💻 Autor
 Desenvolvido por Mauricio Grass de Bronstein 👋
 Se quiser entrar em contato, você me encontra em:
