@@ -38,7 +38,11 @@ Este projeto foi desenvolvido com o acompanhamento dos instrutores da **Alura**,
 ## 🧑‍💻 Autor
 
 Feito por Mauricio Grass de Bronstein👋\
-Se quiser entrar em contato, você me encontra em [seu e-mail/linkedin/github].
+
+Se quiser entrar em contato, você me encontra em: 
+E-mail: mauriciobronstein@hotmail.com
+Linkedin: www.linkedin.com/in/mauricio-bronstein
+Github: https://github.com/bronstein11
 
 ---
 
